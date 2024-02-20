@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "whatsapp-bild-2024-02-20-um-13.59.28_bc043d8c.jpg"
 +++
-> # Im Schatten der Bühne
+
 
 ### Lead
 
@@ -21,7 +21,7 @@ Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text 
 
 > "Zitat" 
 >
-> \-*Quelle Zitat*
+> *Quelle Zitat*
 
 ###### 2. Untertitel
 
